@@ -45,8 +45,8 @@ I am passionate about creating innovative solutions, exploring data, and buildin
 
 ## 📫 **Connect With Me**
 - **GitHub:** [AaryanGole26](https://github.com/AaryanGole26)  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Email:** your.email@example.com  
+- **LinkedIn:** [Aaryan Gole](www.linkedin.com/in/aaryan-gole)  
+- **Email:** goleaaryan7@gmail.com
 
 ---
 
