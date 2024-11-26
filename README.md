@@ -80,9 +80,9 @@
   <a href="mailto:goleaaryan7@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://kaggle.com/aaryangole" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
-  </a>
+ <a href="https://kaggle.com/aaryangole" target="_blank">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/Kaggle-Logo-512.png" alt="Kaggle" width="40" height="40"/>
+ </a>
   <a href="https://instagram.com/aryn.gole" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40"/>
   </a>
