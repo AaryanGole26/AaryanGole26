@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=FFFFFF&height=100&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Aaryan+Gole!" alt="Typing SVG" />
 </p>
 <p align="center">
+  <h3 align="left">Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF"/>
 </p>
-<h4 align="left">Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h4>
 
 ---
 
