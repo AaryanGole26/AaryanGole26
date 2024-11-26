@@ -92,10 +92,10 @@
   <a href="https://instagram.com/aryn.gole" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40"/>
   </a>
-</p>
 <a href="https://kaggle.com/aaryangole" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="40" width="40"/>
 </a>
+</p>
 
 ---
 
