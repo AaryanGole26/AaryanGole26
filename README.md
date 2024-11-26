@@ -8,7 +8,7 @@
 
 ---
 
-🌱 I am an Artificial Intelligence and Data Science student with a passion for Prompt Engineering and Machine Learning, currently diving deeper into the fascinating world of generative AI and its applications.
+### 🌱 I am an Artificial Intelligence and Data Science student with a passion for Prompt Engineering and Machine Learning, currently diving deeper into the fascinating world of generative AI and its applications.
 
 ---
 
