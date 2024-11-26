@@ -1,6 +1,3 @@
-<head>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
-</head>
 <h1 align="center">Hi 👋, I'm Aaryan Gole</h1>
 <h3 align="center">Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
 
@@ -65,10 +62,9 @@
 
 ## 📊 **GitHub Stats:**
 
-<p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AaryanGole26&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</p>
+
 ---
 
 ## 📬 **Connect With Me**
