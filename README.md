@@ -10,9 +10,9 @@
 
 ## 💼 **About Me**  
 🎯 **Interests**:  
-- **Data Science**: Data analysis, predictive modeling, and extracting real-time insights.  
-- **Web Development**: Crafting engaging, scalable React applications.  
-- **AI Integration**: Harnessing the power of Artificial Intelligence for innovative solutions.  
+- *Data Science*: Data analysis, predictive modeling, and extracting real-time insights.  
+- *Web Development*: Crafting engaging, scalable React applications.  
+- *AI Integration*: Harnessing the power of Artificial Intelligence for innovative solutions.  
 
 ---
 
@@ -60,7 +60,6 @@
 <h3 align="left">Tools & Version Control:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
 </p>
 
 ---
