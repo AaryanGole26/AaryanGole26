@@ -12,7 +12,7 @@ Welcome to my corner of GitHub! I’m passionate about leveraging technology to 
 
 ---
 
-## ⚙️ **Technologies I Use**
+## ⚙️ **Technologies I have Learned and Used**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -33,9 +33,8 @@ Welcome to my corner of GitHub! I’m passionate about leveraging technology to 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AaryanGole26&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
-  ![Snake animation](https://github.com/AaryanGole26/AaryanGole26/blob/output/github-contribution-grid-snake.svg)
-
 </p>
+![Snake animation](https://github.com/AaryanGole26/AaryanGole26/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
