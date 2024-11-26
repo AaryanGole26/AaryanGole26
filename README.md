@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aaryan Gole</h1>
 <h3>Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
 
+---
+
+## 💼 **About Me**  
+🎯 **Interests**:  
+- **Data Science**: Data analysis, predictive modeling, and extracting real-time insights.  
+- **Web Development**: Crafting engaging, scalable React applications.  
+- **AI Integration**: Harnessing the power of Artificial Intelligence for innovative solutions.  
+
+---
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
