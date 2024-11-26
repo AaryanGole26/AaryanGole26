@@ -62,8 +62,10 @@
 
 ## 📊 **GitHub Stats:**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AaryanGole26&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryanGole26&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
