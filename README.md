@@ -14,7 +14,7 @@
 - *Web Development*: Crafting engaging, scalable React applications.  
 - *AI Integration*: Harnessing the power of Artificial Intelligence for innovative solutions.
 <p align="center">
-  <img src="./image.png" alt="octocat" />
+  <img src="./yogitocat.png" alt="yogitocat" />
 </p>
 
 ---
