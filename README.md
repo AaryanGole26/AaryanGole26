@@ -1,12 +1,12 @@
-# 👋 Hi, I'm **Aaryan Gole**
+# 👋 Hey, I'm **Aaryan Gole**
 
-Welcome to my GitHub profile! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.
+Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.
 
 ---
 
 ## 💼 **About Me**
 🎯 **Interests**:  
-- **Data Science**: Customer churn analysis, predictive modeling, and real-time insights.  
+- **Data Science**: Data analysis, predictive modeling, and extracting real-time insights. 
 - **Web Development**: Crafting engaging, scalable React applications.  
 - **AI Integration**: Harnessing the power of Artificial Intelligence for innovative solutions 
 
@@ -37,9 +37,6 @@ Welcome to my GitHub profile! I’m passionate about leveraging technology to bu
   </a>
   <a href="mailto:goleaaryan7@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/AaryanGole26" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </div>
 
