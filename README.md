@@ -1,20 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Gole</h1>
-<h3 align="center">Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
-
-- 📫 How to reach me **goleaaryan7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aaryan-gole" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryan-gole" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/aaryangole" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/aryn.gole" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryn.gole" height="30" width="40" />
-  </a>
-</p>
+<h3>Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -62,7 +47,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
-
+ <a href="https://kaggle.com/aaryangole" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/aryn.gole" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryn.gole" height="30" width="40" />
+  </a>
 ---
 
 🌟 **Let’s collaborate and build something amazing together!**
