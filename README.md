@@ -66,10 +66,11 @@
 
 ## 📊 **GitHub Stats:**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryanGole26&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+![Aaryan's Streak](https://streak-stats.demolab.com?user=coder-nian&theme=radical&card_width=1080)
+
+![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-nian&show_icons=true&theme=radical&card_width=1080)
+
+![Aaryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nian&layout=compact&theme=radical&card_width=1080)
 
 ---
 
