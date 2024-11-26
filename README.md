@@ -4,41 +4,50 @@ Welcome to my corner of GitHub! I’m passionate about leveraging technology to 
 
 ---
 
-## 💼 **About Me**
+## 💼 **About Me**  
 🎯 **Interests**:  
-- **Data Science**: Data analysis, predictive modeling, and extracting real-time insights. 
+- **Data Science**: Data analysis, predictive modeling, and extracting real-time insights.  
 - **Web Development**: Crafting engaging, scalable React applications.  
-- **AI Integration**: Harnessing the power of Artificial Intelligence for innovative solutions 
+- **AI Integration**: Harnessing the power of Artificial Intelligence for innovative solutions.  
+
+---
+
+## 📸 **About My Profile**  
+<p align="center">
+  <img src="https://github.com/AaryanGole26.png" alt="Aaryan's Profile Picture" width="150" height="150"/>
+</p>
+
+---
 
 ## ⚙️ **Technologies I Use**
-<div>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-</div>
+</p>
 
 ---
 
 ## 📈 **GitHub Stats**
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AaryanGole26&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
-</div>
+</p>
 
 ---
 
 ## 📬 **Connect With Me**
-<div>
+<p align="center">
   <a href="https://www.linkedin.com/in/aaryan-gole" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:goleaaryan7@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
-</div>
+</p>
 
 ---
 
