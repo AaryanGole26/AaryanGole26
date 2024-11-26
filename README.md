@@ -39,7 +39,7 @@ Welcome to my corner of GitHub! I’m passionate about leveraging technology to 
 
 ## 🐍 **Snake Game Contribution Graph**
 <p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/AaryanGole26/AaryanGole26/output/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](dist/github-contribution-grid-snake.svg)
 </p>
 
 ---
