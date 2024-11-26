@@ -72,12 +72,13 @@
 ---
 
 ## 📬 **Connect With Me**
+## 📬 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryan-gole" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:goleaaryan7@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Google_%22G%22_Logo.png" alt="Google" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://kaggle.com/aaryangole" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
