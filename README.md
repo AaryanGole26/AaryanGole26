@@ -1,4 +1,6 @@
-(https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Aaryan+Gole!+%F0%9F%91%8B)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&color=FFFFFF&width=435&lines=Hey+there%2C+I'm+Aaryan+Gole!+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF"/>
 </p>
