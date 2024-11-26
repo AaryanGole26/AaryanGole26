@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=AaryanGole26&color=blueviolet)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=FFFFFF&height=100&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Aaryan+Gole!" alt="Typing SVG" />
 </p>
@@ -11,7 +12,7 @@
 <h2 align="center"> 🌱 I am an Artificial Intelligence and Data Science student with a passion for Prompt Engineering and Machine Learning, currently diving deeper into the fascinating world of generative AI and its applications. </h2>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=AaryanGole26&color=blueviolet)
+
 ## 💼 **About Me**  
 🎯 **Interests**:  
 - *Data Science*: Data analysis, predictive modeling, and extracting real-time insights.  
