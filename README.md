@@ -99,4 +99,4 @@
 
 ---
 
-🌟 **Let’s collaborate and build something amazing together!**
+<h3 align="center">🌟 Let’s collaborate and build something amazing together!</h3>
