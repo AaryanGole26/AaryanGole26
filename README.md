@@ -34,9 +34,17 @@ Welcome to my corner of GitHub! I’m passionate about leveraging technology to 
   <img src="https://github-readme-stats.vercel.app/api?username=AaryanGole26&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
 </p>
-![Snake animation](https://github.com/AaryanGole26/AaryanGole26/blob/output/dist/github-contribution-grid-snake.svg)
 
 ---
+
+## 🐍 **Snake Game Contribution Graph**
+<p align="center">
+  ![Snake animation](https://raw.githubusercontent.com/AaryanGole26/AaryanGole26/output/dist/github-contribution-grid-snake.svg)
+</p>
+
+---
+
+🌟 **Let’s collaborate and build something amazing together!**
 
 ## 📬 **Connect With Me**
 <p align="center">
