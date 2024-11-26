@@ -80,7 +80,7 @@
   <a href="mailto:goleaaryan7@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
-<a href="https://kaggle.com/aaryangole" target="blank">
+<a href="https://kaggle.com/aaryangole" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="30" width="40" />
 </a>
   <a href="https://instagram.com/aryn.gole" target="_blank">
