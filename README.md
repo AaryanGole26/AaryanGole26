@@ -72,7 +72,6 @@
 ---
 
 ## 📬 **Connect With Me**
-## 📬 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryan-gole" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -81,7 +80,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 <a href="https://kaggle.com/aaryangole" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="30" width="40" />
 </a>
   <a href="https://instagram.com/aryn.gole" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40"/>
