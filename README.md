@@ -33,7 +33,7 @@ Welcome to my corner of GitHub! I’m passionate about leveraging technology to 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AaryanGole26&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
-  ![Snake animation](https://AaryanGole26.github.io/AaryanGole26/tree/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://AaryanGole26.github.io/AaryanGole26/github-contribution-grid-snake.svg)
 </p>
 
 ---
