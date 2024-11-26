@@ -12,13 +12,6 @@ Welcome to my corner of GitHub! I’m passionate about leveraging technology to 
 
 ---
 
-## 📸 **About My Profile**  
-<p align="center">
-  <img src="https://github.com/AaryanGole26.png" alt="Aaryan's Profile Picture" width="150" height="150"/>
-</p>
-
----
-
 ## ⚙️ **Technologies I Use**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
