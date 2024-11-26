@@ -74,16 +74,16 @@
 ## 📬 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryan-gole" target="_blank">
-    <i class="fab fa-linkedin" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:goleaaryan7@gmail.com">
-    <i class="fab fa-google" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Google_%22G%22_Logo.png" alt="Google" width="40" height="40"/>
   </a>
   <a href="https://kaggle.com/aaryangole" target="_blank">
-    <i class="fab fa-kaggle" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/aryn.gole" target="_blank">
-    <i class="fab fa-instagram" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
