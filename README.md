@@ -11,7 +11,7 @@
 <h2 align="center"> 🌱 I am an Artificial Intelligence and Data Science student with a passion for Prompt Engineering and Machine Learning, currently diving deeper into the fascinating world of generative AI and its applications. </h2>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=AaryanGole26&color=blueviolet)
 ## 💼 **About Me**  
 🎯 **Interests**:  
 - *Data Science*: Data analysis, predictive modeling, and extracting real-time insights.  
