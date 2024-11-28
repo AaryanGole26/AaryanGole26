@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AaryanGole26&color=blueviolet)
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=7851A9&height=100&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Aaryan+Gole!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=8C37DC&height=100&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Aaryan+Gole!" alt="Typing SVG" />
 </p>
 <p align="center">
   <h3 align="justify">Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
