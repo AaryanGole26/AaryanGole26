@@ -1,3 +1,4 @@
+<p>
 <style>
   .typing-container {
     display: inline-block;
@@ -13,6 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=8C37DC&height=100&width=1000&lines=Hey+there,+I'm+Aaryan+Gole!" alt="Typing SVG"/>
 </div>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px" style="display: block; margin: auto;"/>
+</p>
 
 <p align="center">
   <h3 align="justify">Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
