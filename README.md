@@ -133,8 +133,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="40" width="40"/>
 </a>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=AaryanGole26&color=blueviolet)
  
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=AaryanGole26&color=blueviolet)
 
 <h3 align="center">🌟 Let’s collaborate and build something amazing together! 🌟</h3>
