@@ -118,7 +118,7 @@
 
 ---
 
-<h3 align="left">🌐 **Connect With Me**
+<h3 align="left">🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryan-gole" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
@@ -130,8 +130,8 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://kaggle.com/aaryangole" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="40" width="40"/>
+</a>
 </p>
 
 
