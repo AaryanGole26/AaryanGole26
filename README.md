@@ -2,10 +2,10 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=8C37DC&height=100&width=1000&lines=Hey+there,+I'm+Aaryan+Gole!;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=8C37DC&height=100&width=1000&lines=Hey+there,+I'm+Aaryan+Gole!;Welcome+to+my+corner+of+GitHub!)
 
 <p align="center">
-  <h3 align="justify">Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
+  <h3 align="justify">I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF"/>
 </p>
 
