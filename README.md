@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=AaryanGole26&color=blueviolet)
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=8C37DC&height=100&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Aaryan+Gole!" alt="Typing SVG" />
 </p>
@@ -18,9 +17,6 @@
 - *Data Science*: Data analysis, predictive modeling, and extracting real-time insights.  
 - *Web Development*: Crafting engaging, scalable React applications.  
 - *AI Integration*: Harnessing the power of Artificial Intelligence for innovative solutions.
-<p align="center">
-  <img src="./yogitocat.png" alt="yogitocat" />
-</p>
 
 ---
 
@@ -133,8 +129,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryangole" height="40" width="40"/>
 </a>
 </p>
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=AaryanGole26&color=blueviolet)
+ 
 ---
 
 <h3 align="center">🌟 Let’s collaborate and build something amazing together! 🌟</h3>
