@@ -118,19 +118,19 @@
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
+<h3 align="left">🌐 **Connect With Me**
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/aaryan-gole" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  <a href="mailto:goleaaryan7@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
+  <a href="https://instagram.com/aryn.gole" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/>
+  <a href="https://kaggle.com/aaryangole" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" width="40" height="40"/>
   </a>
 </p>
 
