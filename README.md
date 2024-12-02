@@ -84,13 +84,13 @@
 <h3 align="left">Data Science & Machine Learning:</h3>
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40" style="background-color: #ffffff; border-radius: 5px; padding: 5px;"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="background-color: #ffffff; border-radius: 5px; padding: 5px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" style="background-color: #ffffff; border-radius: 5px; padding: 5px;"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
@@ -130,7 +130,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://kaggle.com/aaryangole" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
   </a>
 </p>
 
