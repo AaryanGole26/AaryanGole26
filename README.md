@@ -119,7 +119,7 @@
 ---
 
 <h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
