@@ -1,5 +1,6 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=8C37DC&height=100&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Aaryan+Gole!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=8C37DC&height=100&width=1000&lines=Hey+there,+I'm+Aaryan+Gole!" alt="Typing SVG" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </p>
 <p align="center">
   <h3 align="justify">Welcome to my corner of GitHub! I’m passionate about leveraging technology to build impactful solutions and explore data-driven insights.</h3>
