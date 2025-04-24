@@ -97,8 +97,6 @@
 
 ## 📊 **GitHub Stats:**
 
-![Aaryan’s GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaryanGole26&theme=radical&card_width=1080)
-
 ![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanGole26&show_icons=true&theme=radical&card_width=1080)
 
 ![Aaryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&layout=compact&theme=radical&card_width=1080)
@@ -108,7 +106,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect With Me
+<h3 align="left"> Connect With Me  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40px" />
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryan-gole" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
