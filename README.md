@@ -52,6 +52,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
 </p>
 
 <h3 align="left">Backend Development:</h3>
@@ -59,14 +60,8 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/>
-  </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
   </a>
 </p>
 
@@ -78,6 +73,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
 </p>
 
 <h3 align="left">Data Science & Machine Learning:</h3>
@@ -93,9 +89,6 @@
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
   </a>
 </p>
 
