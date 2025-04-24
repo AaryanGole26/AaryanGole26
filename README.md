@@ -77,7 +77,7 @@
     <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
@@ -108,6 +108,9 @@
 
 <h3 align="left"> Connect With Me  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px" />
 <p align="center">
+  <a href="https://aaryan--gole.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="LinkedIn" width="40" height="40"/>
+  </a>
   <a href="https://www.linkedin.com/in/aaryan-gole" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
