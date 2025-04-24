@@ -97,7 +97,7 @@
 
 ## 📊 **GitHub Stats:**
 
-![Aaryan's Streak](https://github-readme-streak-stats.vercel.app?user=AaryanGole26&theme=radical&card_width=1080&v=2)
+![Aaryan's Streak](https://github-readme-streak-stats.vercel.app?user=AaryanGole26&theme=radical&card_width=1080)
 
 ![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanGole26&show_icons=true&theme=radical&card_width=1080)
 
