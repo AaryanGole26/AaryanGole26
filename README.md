@@ -37,11 +37,12 @@
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
