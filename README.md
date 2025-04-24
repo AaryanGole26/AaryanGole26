@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="500px" />
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px" />
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=50&pause=1000&color=8C37DC&height=100&width=1000&lines=Hey+there,+I'm+Aaryan+Gole!;Welcome+to+my+corner+of+GitHub!)
@@ -106,7 +106,7 @@
 
 ---
 
-<h3 align="left"> Connect With Me  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="100px" />
+<h3 align="left"> Connect With Me  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px" />
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryan-gole" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
