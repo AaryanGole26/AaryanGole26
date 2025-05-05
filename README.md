@@ -33,6 +33,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="Javascript" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Frontend Development:</h3>
