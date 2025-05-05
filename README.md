@@ -74,16 +74,10 @@
   <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
 </p>
 
-<h3 align="left">Data Science & Machine Learning:</h3>
+<h3 align="left">Machine Learning:</h3>
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
-  </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" style="background-color: #D3D3D3; border-radius: 5px; padding: 5px;"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
