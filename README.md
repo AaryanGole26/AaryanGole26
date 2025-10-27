@@ -1,3 +1,5 @@
+![AaryanGole26's GitHub Banner](https://raw.githubusercontent.com/AaryanGole26/AaryanGole26/main/banner.png)
+
 <p align="left">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px" />
 </p>
