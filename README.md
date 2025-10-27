@@ -1,4 +1,4 @@
-![AaryanGole26's GitHub Banner](https://raw.githubusercontent.com/AaryanGole26/AaryanGole26/blob/main/AaryanGole26-readme-banner.png) 
+![AaryanGole26's GitHub Banner](https://raw.githubusercontent.com/AaryanGole26/AaryanGole26/main/AaryanGole26-readme-banner.png) 
 <p align="left">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px" />
 </p>
