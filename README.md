@@ -97,7 +97,7 @@
 
 ![Aaryan's GitHub stats](https://stats-eight-theta.vercel.app/api?username=AaryanGole26&show_icons=true&theme=radical)
 
-![Top Languages](https://stats-eight-theta.vercel.app/api/top-langs/?username=AaryanGole26&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AaryanGole26&theme=radical)
 
 ![Aaryan’s GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaryanGole26&theme=radical&card_width=1080)
 
