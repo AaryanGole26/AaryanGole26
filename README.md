@@ -95,9 +95,9 @@
 
 ## 📊 **GitHub Stats:**
 
-![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanGole26&show_icons=true&theme=radical&card_width=1080)
+![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanGole26&show_icons=true&theme=radical)
 
-![Aaryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&layout=compact&theme=radical&card_width=1080)
+![Aaryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGole26&layout=compact&theme=radical)
 
 ![Aaryan’s GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaryanGole26&theme=radical&card_width=1080)
 
